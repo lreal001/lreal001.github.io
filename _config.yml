@@ -1,11 +1,11 @@
 # Site settings
 author: Lessllie Real
-title: 
+title: My Flatiron Journey
 header-img: img/home-bg.png
 email: rlessllie@yahoo.com
 copyright_name: Lessllie Real
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Projects
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lreal001
